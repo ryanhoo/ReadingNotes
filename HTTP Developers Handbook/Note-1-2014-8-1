@@ -1,0 +1,17 @@
+# Introduction
+
+## 什么是 protocol
+
+> A protocol, much as you might expect, is a set of formal guidelines or procedures that explain how to accomplish something. In the workplace, there may be a protocol for how to take a personal day or a week of vacation. Perhaps you have to fill out a form, get a manager's signature, and then turn it in to the human resources department.
+
+> In the context it is used here, a protocol refers to a set of formal guidelines for communication between two computer programs.
+
+> HTTP is the protocol that defines how the Web works
+
+## Scratching your own itch
+
+在 **Why This Book** 一节作者向免费软件的作者致敬：
+
+> Many developers of free software (see http://www.gnu.org/philosophy/free-sw.html for a definition of free software) gain motivation from a personal need. Sometimes described as "scratching your own itch", this has long been a source of inspiration behind some of the world's most important and successful software. The result is often of superior quality compared to the proprietary equivalents. This can be attributed to the increased passion and diligence developers possess when developing software they want to work on rather than software they have to work on because of employment or financial obligations.
+
+大意说，很多免费软件的作者的源动力都市个人的需求，这种行为被称为 ``scratching your own itch``，也就是自己给自己挠痒痒，被 wc 同学翻译成 "自慰"，当真就突然不忍直视了。后来自己造了个成语『自搔自痒』，不过联系上下文，似乎『自力更生』比较合适，毕竟是 **意译**，而非一定要有**痒**字不可。
